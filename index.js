@@ -10,6 +10,10 @@ app.get('/', (req, res) => {
   res.send('Super cooker running!')
 })
 
+app.get('/cheps',(req,res)=>{
+    res.send(cheps)
+})
+
 app.listen(port, () => {
   console.log(`Supper cook server running on port ${port}`)
 })
