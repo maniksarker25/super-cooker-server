@@ -1,0 +1,152 @@
+[
+    {
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Giovanni Rossi",
+        "experience_years": 15,
+        "num_recipes": 87,
+        "likes": 1245,
+        "description": "Giovanni Rossi is a renowned Italian chef with over 15 years of experience in the culinary world. He is known for his unique take on traditional Italian dishes, using fresh and locally sourced ingredients to create flavorful and healthy meals. With 87 recipes under his belt, Giovanni's dishes are a perfect mix of tradition and innovation.",
+        "recipes": [
+          {
+            "name": "Pesto pasta with cherry tomatoes",
+            "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+            "image": "https://example.com/pesto-pasta.jpg"
+          },
+          {
+            "name": "Grilled bruschetta with mozzarella and prosciutto",
+            "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
+            "image": "https://example.com/bruschetta.jpg"
+          },
+          {
+            "name": "Tiramisu",
+            "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
+            "image": "https://example.com/tiramisu.jpg"
+          }
+        ]
+      },
+      {
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Alessandro Bianchi",
+        "experience_years": 10,
+        "num_recipes": 65,
+        "likes": 987,
+        "description": "Alessandro Bianchi is an Italian chef with a passion for creating delicious and authentic Italian cuisine. With 10 years of experience in the kitchen and a repertoire of 65 recipes, Alessandro's dishes are a celebration of the simplicity and complexity of Italian cuisine.",
+        "recipes": [
+          {
+            "name": "Spaghetti carbonara",
+            "description": "Alessandro's take on this classic Roman dish features al dente spaghetti coated in a creamy sauce made with eggs, Parmesan cheese, and crispy pancetta.",
+            "image": "https://example.com/carbonara.jpg"
+          },
+          {
+            "name": "Caprese salad",
+            "description": "This fresh and simple salad is Alessandro's tribute to the flavors of the Italian summer. Made with ripe tomatoes, creamy mozzarella cheese, and fresh basil leaves, it's a perfect appetizer or side dish.",
+            "image": "https://example.com/caprese-salad.jpg"
+          },
+          {
+            "name": "Risotto alla Milanese",
+            "description": "Alessandro's creamy and comforting risotto features saffron, which gives it its characteristic yellow color and unique flavor. It's a classic Italian dish that's perfect for a cozy night in.",
+            "image": "https://example.com/risotto.jpg"
+          }
+        ]
+      },
+      {
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Antonio Rossi",
+        "experience_years": 20,
+        "num_recipes": 120,
+        "likes": 2370,
+        "description": "Antonio Rossi is a master Italian chef with over 20 years of experience in the culinary world. He is known for his refined and elegant dishes that showcase the rich flavors and textures of Italian cuisine. With 120 recipes under his belt, Antonio is a true culinary artist.",
+        "recipes": [
+          {
+            "name": "Tagliatelle with truffles",
+            "description": "Antonio's luxurious pasta dish features fresh egg tagliatelle coated in a rich and creamy truffle sauce, topped with grated Parmigiano-Reggiano cheese.",
+            "image": "https://example.com/tagliatelle.jpg"
+          },
+          {
+            "name": "Saltimbocca alla romana",
+            "description": "Antonio's classic Roman dish features thin slices of veal wrapped in prosciutto and sage leaves, pan-fried until golden brown and served with a rich and flavorful white wine sauce.",
+            "image": "https://example.com/saltimbocca.jpg"
+          },
+          {
+            "name": "Torta della nonna",
+            "description": "This classic Italian dessert is Antonio's grandmother's recipe, featuring a buttery shortcrust pastry filled with creamy vanilla custard and topped with pine nuts and powdered sugar.",
+            "image": "https://example.com/torta.jpg"
+          }
+        ]
+      },
+      {
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Lorenzo Romano",
+        "experience_years": 8,
+        "num_recipes": 50,
+        "likes": 750,
+        "description": "Lorenzo Romano is a young and talented Italian chef with a passion for experimenting with new flavors and techniques. With 8 years of experience and 50 recipes to his name, Lorenzo is a rising star in the Italian culinary world.",
+        "recipes": [
+          {
+            "name": "Pizza margherita",
+            "description": "Lorenzo's classic pizza features a thin and crispy crust, topped with tangy tomato sauce, fresh mozzarella cheese, and fragrant basil leaves.",
+            "image": "https://example.com/pizza.jpg"
+          },
+          {
+            "name": "Polpette al sugo",
+            "description": "These classic Italian meatballs are made with a mix of ground beef and pork, seasoned with garlic, parsley, and grated Parmesan cheese, and served in a rich tomato sauce.",
+            "image": "https://example.com/polpette.jpg"
+          },
+          {
+            "name": "Gelato",
+            "description": "Lorenzo's creamy and refreshing gelato comes in a variety of flavors, from classic vanilla and chocolate to more adventurous combinations like pistachio and raspberry.",
+            "image": "https://example.com/gelato.jpg"
+          }
+        ]
+      },
+      {
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Giuseppe Bianchi",
+        "experience_years": 18,
+        "num_recipes": 80,
+        "likes": 1420,
+        "description": "Giuseppe Bianchi is a talented Italian chef with a passion for traditional regional cuisine. With 18 years of experience and 80 recipes under his belt, Giuseppe is a master of classic Italian flavors.",
+        "recipes": [
+          {
+            "name": "Pesto alla Genovese",
+            "description": "Giuseppe's classic pesto features fragrant basil leaves, pine nuts, garlic, and grated Parmigiano-Reggiano cheese, blended together with extra-virgin olive oil until smooth and creamy.",
+            "image": "https://example.com/pesto.jpg"
+          },
+          {
+            "name": "Risotto alla Milanese",
+            "description": "This classic Milanese dish features creamy risotto cooked with saffron threads, butter, and grated Parmesan cheese, topped with a sprinkle of chopped parsley.",
+            "image": "https://example.com/risotto.jpg"
+          },
+          {
+            "name": "Tiramisu",
+            "description": "Giuseppe's classic Italian dessert features layers of ladyfingers soaked in espresso and brandy, topped with a creamy mixture of mascarpone cheese, whipped cream, and cocoa powder.",
+            "image": "https://example.com/tiramisu.jpg"
+          }
+        ]
+      },
+      {
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Francesca Rossi",
+        "experience_years": 12,
+        "num_recipes": 65,
+        "likes": 890,
+        "description": "Francesca Rossi is a creative Italian chef with a passion for incorporating seasonal and local ingredients into her dishes. With 12 years of experience and 65 recipes to her name, Francesca is a master of fresh and flavorful cuisine.",
+        "recipes": [
+          {
+            "name": "Spaghetti alle vongole",
+            "description": "Francesca's classic pasta dish features al dente spaghetti cooked with fresh clams, garlic, white wine, and red pepper flakes, finished with a drizzle of extra-virgin olive oil and a sprinkle of chopped parsley.",
+            "image": "https://example.com/spaghetti.jpg"
+          },
+          {
+            "name": "Pollo alla cacciatora",
+            "description": "This classic Tuscan dish features tender chicken cooked in a savory tomato sauce with onions, garlic, olives, and capers, served with crusty bread to soak up the delicious sauce.",
+            "image": "https://example.com/pollo.jpg"
+          },
+          {
+            "name": "Panna cotta",
+            "description": "Francesca's silky-smooth dessert features sweetened cream flavored with vanilla or other spices, set with gelatin and served chilled with a drizzle of fruit sauce or caramel.",
+            "image": "https://example.com/panna.jpg"
+          }
+        ]
+      }
+]
