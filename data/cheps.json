@@ -1,7 +1,7 @@
 [
     {   
         "id":"101e",
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://image.khaleejtimes.com/?uuid=59a28b40-0275-5ffd-8162-fd4d3985197c&function=fit&type=preview&source=false&q=75&maxsize=1200&scaleup=0",
         "name": "Giovanni Rossi",
         "experience_years": 15,
         "num_recipes": 87,
@@ -27,7 +27,7 @@
       },
       { 
         "id":"102e",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://www.cordonbleu.edu/Files/MediaFile/59961.jpg",
         "name": "Alessandro Bianchi",
         "experience_years": 10,
         "num_recipes": 65,
@@ -53,7 +53,7 @@
       },
       { 
         "id":"103e",
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://static.gamberorosso.it/2022/04/nino-rossi-683x1024.jpg",
         "name": "Antonio Rossi",
         "experience_years": 20,
         "num_recipes": 120,
@@ -79,7 +79,7 @@
       },
       { 
         "id":"104e",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://livenaturallymagazine.com/wp-content/uploads/2018/10/barilla-feature-2.jpg",
         "name": "Lorenzo Romano",
         "experience_years": 8,
         "num_recipes": 50,
@@ -105,7 +105,7 @@
       },
       { 
         "id":"105e",
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
         "name": "Giuseppe Bianchi",
         "experience_years": 18,
         "num_recipes": 80,
@@ -131,7 +131,7 @@
       },
       { 
         "id":"106e",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://media.licdn.com/dms/image/C4D22AQFY6EIBOqewkg/feedshare-shrink_800/0/1624697479577?e=2147483647&v=beta&t=WrxFykCfsDDi0rX-2VXR84Zela7MRZ9j_Up-296j86Q",
         "name": "Francesca Rossi",
         "experience_years": 12,
         "num_recipes": 65,

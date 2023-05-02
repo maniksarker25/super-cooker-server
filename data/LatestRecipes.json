@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian dish made with spaghetti, pancetta, eggs, Parmesan cheese, and black pepper.",
+        "picture": "https://example.com/spaghetti-carbonara.jpg",
+        "likes": 1200,
+        "rating": 4.5
+     },
+     {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "description": "A traditional Neapolitan pizza made with tomato sauce, mozzarella cheese, and basil.",
+        "picture": "https://example.com/margherita-pizza.jpg",
+        "likes": 1800,
+        "rating": 4.8
+     },
+     {
+        "id": 3,
+        "name": "Lasagna",
+        "description": "A classic Italian dish made with layers of lasagna noodles, Bolognese sauce, and cheese.",
+        "picture": "https://example.com/lasagna.jpg",
+        "likes": 2200,
+        "rating": 4.7
+     },
+     {
+        "id": 4,
+        "name": "Tiramisu",
+        "description": "A popular Italian dessert made with ladyfingers, espresso, mascarpone cheese, and cocoa powder.",
+        "picture": "https://example.com/tiramisu.jpg",
+        "likes": 3000,
+        "rating": 4.9
+     },
+     {
+        "id": 5,
+        "name": "Risotto",
+        "description": "A creamy Italian rice dish made with Arborio rice, chicken broth, Parmesan cheese, and various ingredients like mushrooms, seafood, or vegetables.",
+        "picture": "https://example.com/risotto.jpg",
+        "likes": 1400,
+        "rating": 4.6
+     },
+     {
+        "id": 6,
+        "name": "Chicken Parmesan",
+        "description": "A popular Italian-American dish made with breaded chicken cutlets, tomato sauce, and melted mozzarella cheese.",
+        "picture": "https://example.com/chicken-parmesan.jpg",
+        "likes": 1900,
+        "rating": 4.8
+     },
+     {
+        "id": 7,
+        "name": "Gnocchi",
+        "description": "A type of Italian pasta made with potatoes, flour, and eggs, served with various sauces like tomato sauce, pesto, or cream sauce.",
+        "picture": "https://example.com/gnocchi.jpg",
+        "likes": 1600,
+        "rating": 4.7
+     },
+     {
+        "id": 8,
+        "name": "Fettuccine Alfredo",
+        "description": "A pasta dish made with fettuccine noodles, butter, Parmesan cheese, and heavy cream, often served with chicken or shrimp.",
+        "picture": "https://example.com/fettuccine-alfredo.jpg",
+        "likes": 2000,
+        "rating": 4.9
+     }  
+     
+]
