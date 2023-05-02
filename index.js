@@ -15,6 +15,13 @@ app.get('/cheps',(req,res)=>{
     res.send(cheps)
 })
 
+app.get('/cheps/:id',(req,res)=>{
+  const id = req.params.id;
+  console.log(id)
+  const selectedChep = cheps.find(c=>c.id == id)
+  res.send(selectedChep)
+})
+
 app.get('/latest-recipes',(req,res)=>{
   res.send(latestRecipes)
 })
