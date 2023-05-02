@@ -11,17 +11,29 @@
           {
             "name": "Pesto pasta with cherry tomatoes",
             "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-            "image": "https://example.com/pesto-pasta.jpg"
+            "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+            "rating":4.6,
+
+            "ingredients": ["Pasta",
+            "Pesto Sauce",
+            "Cherry Tomatoes",
+            "Garlic",
+            "Parmesan Cheese"]
           },
           {
             "name": "Grilled bruschetta with mozzarella and prosciutto",
             "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
-            "image": "https://example.com/bruschetta.jpg"
+            "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+            "rating":4.9,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+
           },
           {
             "name": "Tiramisu",
             "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
-            "image": "https://example.com/tiramisu.jpg"
+            "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+            "rating":4.2,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
       },
@@ -37,17 +49,23 @@
           {
             "name": "Spaghetti carbonara",
             "description": "Alessandro's take on this classic Roman dish features al dente spaghetti coated in a creamy sauce made with eggs, Parmesan cheese, and crispy pancetta.",
-            "image": "https://example.com/carbonara.jpg"
+            "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg",
+            "rating":4,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Caprese salad",
             "description": "This fresh and simple salad is Alessandro's tribute to the flavors of the Italian summer. Made with ripe tomatoes, creamy mozzarella cheese, and fresh basil leaves, it's a perfect appetizer or side dish.",
-            "image": "https://example.com/caprese-salad.jpg"
+            "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2003/9/22/0/tm1a35_caprese_salad.jpg",
+            "rating":5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Risotto alla Milanese",
             "description": "Alessandro's creamy and comforting risotto features saffron, which gives it its characteristic yellow color and unique flavor. It's a classic Italian dish that's perfect for a cozy night in.",
-            "image": "https://example.com/risotto.jpg"
+            "image": "https://storage.googleapis.com/smstl/201845/1941/risotto-milanese.jpg",
+            "rating":3.5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
       },
@@ -63,17 +81,23 @@
           {
             "name": "Tagliatelle with truffles",
             "description": "Antonio's luxurious pasta dish features fresh egg tagliatelle coated in a rich and creamy truffle sauce, topped with grated Parmigiano-Reggiano cheese.",
-            "image": "https://example.com/tagliatelle.jpg"
+            "image": "https://cdn1.jernejkitchen.com/sites/default/files/tagliatellepastawithblacktrufflesauce-1-jernejkitchen.jpg",
+            "rating":4.6,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Saltimbocca alla romana",
             "description": "Antonio's classic Roman dish features thin slices of veal wrapped in prosciutto and sage leaves, pan-fried until golden brown and served with a rich and flavorful white wine sauce.",
-            "image": "https://example.com/saltimbocca.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Saltimbocca_alla_romana_%287123618999%29.jpg",
+            "rating":5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Torta della nonna",
             "description": "This classic Italian dessert is Antonio's grandmother's recipe, featuring a buttery shortcrust pastry filled with creamy vanilla custard and topped with pine nuts and powdered sugar.",
-            "image": "https://example.com/torta.jpg"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LVvJzNmL68WL2vBZm9kI53IkTWiIaJ7Hhw&usqp=CAU",
+            "rating":5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
       },
@@ -89,17 +113,23 @@
           {
             "name": "Pizza margherita",
             "description": "Lorenzo's classic pizza features a thin and crispy crust, topped with tangy tomato sauce, fresh mozzarella cheese, and fragrant basil leaves.",
-            "image": "https://example.com/pizza.jpg"
+            "image": "https://media.istockphoto.com/id/1280329631/photo/italian-pizza-margherita-with-tomatoes-and-mozzarella-cheese-on-wooden-cutting-board-close-up.jpg?b=1&s=170667a&w=0&k=20&c=_t83ocY59IayPnspluN99xOM_RQ5ytAMTfXQperbL_I=",
+            "rating":4.5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Polpette al sugo",
             "description": "These classic Italian meatballs are made with a mix of ground beef and pork, seasoned with garlic, parsley, and grated Parmesan cheese, and served in a rich tomato sauce.",
-            "image": "https://example.com/polpette.jpg"
+            "image": "https://cdn.shopify.com/s/files/1/0569/4661/articles/Polpette_Blog_Image_1200x.jpg?v=1615285744",
+            "rating":4.5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Gelato",
             "description": "Lorenzo's creamy and refreshing gelato comes in a variety of flavors, from classic vanilla and chocolate to more adventurous combinations like pistachio and raspberry.",
-            "image": "https://example.com/gelato.jpg"
+            "image": "https://media.istockphoto.com/id/1151706409/photo/italian-gelato-of-various-flavors-in-ice-cream-parlor.jpg?s=612x612&w=0&k=20&c=pqCa34BGcpM34NDkhOcFGLud3_CmPxNrOyT4ylanp0I=",
+            "rating":4.6,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
       },
@@ -115,17 +145,23 @@
           {
             "name": "Pesto alla Genovese",
             "description": "Giuseppe's classic pesto features fragrant basil leaves, pine nuts, garlic, and grated Parmigiano-Reggiano cheese, blended together with extra-virgin olive oil until smooth and creamy.",
-            "image": "https://example.com/pesto.jpg"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxW-FA-Xj0nQSXXaA4VV9R_qimAEQJgQ1WfYnzZq8vEqEHecb-I1bOotVsAXaAEMURJ0&usqp=CAU",
+            "rating":4.6,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Risotto alla Milanese",
             "description": "This classic Milanese dish features creamy risotto cooked with saffron threads, butter, and grated Parmesan cheese, topped with a sprinkle of chopped parsley.",
-            "image": "https://example.com/risotto.jpg"
+            "image": "https://media.istockphoto.com/id/1057429672/photo/vegetarian-italian-food-risotto-with-saffron-and-mint-closeup-horizontal.jpg?s=612x612&w=0&k=20&c=5SWaNPPUorwHvsz3lFxwg06UtLbk8Bn02jKNmErNIqw=",
+            "rating":5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Tiramisu",
             "description": "Giuseppe's classic Italian dessert features layers of ladyfingers soaked in espresso and brandy, topped with a creamy mixture of mascarpone cheese, whipped cream, and cocoa powder.",
-            "image": "https://example.com/tiramisu.jpg"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTiJZ1Oni2F3c0nWuQ92FC8IUmtNMYUN4ww&usqp=CAU",
+            "rating":5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
       },
@@ -141,17 +177,23 @@
           {
             "name": "Spaghetti alle vongole",
             "description": "Francesca's classic pasta dish features al dente spaghetti cooked with fresh clams, garlic, white wine, and red pepper flakes, finished with a drizzle of extra-virgin olive oil and a sprinkle of chopped parsley.",
-            "image": "https://example.com/spaghetti.jpg"
+            "image": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/08/one_pot_wonders_6_153_img_s900x0_c1960x1144_l0x825.jpg",
+            "rating":4.6,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Pollo alla cacciatora",
             "description": "This classic Tuscan dish features tender chicken cooked in a savory tomato sauce with onions, garlic, olives, and capers, served with crusty bread to soak up the delicious sauce.",
-            "image": "https://example.com/pollo.jpg"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49Hyi5XFDeMptYRXzaG2mg-K-MyVXJMO35g&usqp=CAU",
+            "rating":5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
             "name": "Panna cotta",
             "description": "Francesca's silky-smooth dessert features sweetened cream flavored with vanilla or other spices, set with gelatin and served chilled with a drizzle of fruit sauce or caramel.",
-            "image": "https://example.com/panna.jpg"
+            "image": "https://media.istockphoto.com/id/1255776846/photo/raspberry-panna-cotta-with-raspberry-jelly-italian-dessert-homemade-cuisine-copy-space.jpg?s=612x612&w=0&k=20&c=TU-mPAtTafCrWcxHrtAO-HjxMkcGgOoG5E6W5l9tJkg=",
+            "rating":3.5,
+            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
       }
