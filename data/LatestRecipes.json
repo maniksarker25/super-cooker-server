@@ -3,64 +3,64 @@
         "id": 1,
         "name": "Spaghetti Carbonara",
         "description": "A classic Italian dish made with spaghetti, pancetta, eggs, Parmesan cheese, and black pepper.",
-        "picture": "https://example.com/spaghetti-carbonara.jpg",
-        "likes": 1200,
+        "picture": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg",
+        "view": 1200,
         "rating": 4.5
      },
      {
         "id": 2,
         "name": "Margherita Pizza",
         "description": "A traditional Neapolitan pizza made with tomato sauce, mozzarella cheese, and basil.",
-        "picture": "https://example.com/margherita-pizza.jpg",
-        "likes": 1800,
+        "picture": "https://cdn.shopify.com/s/files/1/0205/9582/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?crop=center&height=915&v=1644590192&width=1200",
+        "view": 1800,
         "rating": 4.8
      },
      {
         "id": 3,
         "name": "Lasagna",
         "description": "A classic Italian dish made with layers of lasagna noodles, Bolognese sauce, and cheese.",
-        "picture": "https://example.com/lasagna.jpg",
-        "likes": 2200,
+        "picture": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
+        "view": 2200,
         "rating": 4.7
      },
      {
         "id": 4,
         "name": "Tiramisu",
         "description": "A popular Italian dessert made with ladyfingers, espresso, mascarpone cheese, and cocoa powder.",
-        "picture": "https://example.com/tiramisu.jpg",
-        "likes": 3000,
+        "picture": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/21412-tiramisu-ii-3x2-119.jpg",
+        "view": 3000,
         "rating": 4.9
      },
      {
         "id": 5,
         "name": "Risotto",
-        "description": "A creamy Italian rice dish made with Arborio rice, chicken broth, Parmesan cheese, and various ingredients like mushrooms, seafood, or vegetables.",
-        "picture": "https://example.com/risotto.jpg",
-        "likes": 1400,
+        "description": "A creamy Italian rice dish made with Arborio rice, chicken broth, Parmesan cheese, and various ingredients like mushrooms.",
+        "picture": "https://res.cloudinary.com/hsxfx8igq/image/upload/t_4x3_recipe_image,f_auto/v1612796720/Butter-Poached-Lobster-with-risotto-7_bgb9vf.jpg",
+        "view": 1400,
         "rating": 4.6
      },
      {
         "id": 6,
         "name": "Chicken Parmesan",
         "description": "A popular Italian-American dish made with breaded chicken cutlets, tomato sauce, and melted mozzarella cheese.",
-        "picture": "https://example.com/chicken-parmesan.jpg",
-        "likes": 1900,
+        "picture": "https://thecozycook.com/wp-content/uploads/2022/08/Chicken-Parmesan-Recipe-f-500x500.jpg",
+        "view": 1900,
         "rating": 4.8
      },
      {
         "id": 7,
         "name": "Gnocchi",
         "description": "A type of Italian pasta made with potatoes, flour, and eggs, served with various sauces like tomato sauce, pesto, or cream sauce.",
-        "picture": "https://example.com/gnocchi.jpg",
-        "likes": 1600,
+        "picture": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2020-10-How-to-Make-the-Easiest-Gnocchi-from-Scratch%20%2FHT-Gnocchi-From-Scratch-479",
+        "view": 1600,
         "rating": 4.7
      },
      {
         "id": 8,
         "name": "Fettuccine Alfredo",
         "description": "A pasta dish made with fettuccine noodles, butter, Parmesan cheese, and heavy cream, often served with chicken or shrimp.",
-        "picture": "https://example.com/fettuccine-alfredo.jpg",
-        "likes": 2000,
+        "picture": "https://assets.bonappetit.com/photos/57e2c3599f19b4610e6b79f6/3:2/w_3332,h_2221,c_limit/fettuccine-alfredo.jpg",
+        "view": 2000,
         "rating": 4.9
      }  
      

@@ -2,7 +2,8 @@ const express = require('express')
 const app = express()
 const port = process.env.PORT || 4000;
 const cors = require("cors");
-const cheps = require('./data/cheps.json')
+const cheps = require('./data/cheps.json');
+const latestRecipes = require('./data/LatestRecipes.json');
 
 app.use(cors());
 
@@ -12,6 +13,10 @@ app.get('/', (req, res) => {
 
 app.get('/cheps',(req,res)=>{
     res.send(cheps)
+})
+
+app.get('/latest-recipes',(req,res)=>{
+  res.send(latestRecipes)
 })
 
 app.listen(port, () => {
