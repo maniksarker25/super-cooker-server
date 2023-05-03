@@ -36,7 +36,7 @@
             "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
             "rating":4.2,
             "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["Ladyfingers", "Mascarpone cheese", "Eggs", "Sugar", "Coffee"]
           }
         ]
       },
@@ -55,7 +55,7 @@
             "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg",
             "rating":4,
             "cooking_method":"Cook spaghetti in salted boiling water according to package instructions until al dente.In a large skillet, cook pancetta or bacon over medium heat until crispy. Remove from pan...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["Ladyfingers", "Mascarpone cheese", "Eggs", "Sugar", "Coffee"]
           },
           {
             "name": "Caprese salad",
@@ -63,7 +63,8 @@
             "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2003/9/22/0/tm1a35_caprese_salad.jpg",
             "rating":5,
             "cooking_method":"Cook spaghetti in a large pot of salted boiling water according to package instructions until al dente.In a large skillet, cook diced pancetta or bacon over medium heat...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["Fresh mozzarella cheese", "Fresh tomatoes", "Fresh basil leaves", "Extra-virgin olive oil", "Salt and pepper"]
+
           },
           {
             "name": "Risotto alla Milanese",
@@ -71,7 +72,8 @@
             "image": "https://storage.googleapis.com/smstl/201845/1941/risotto-milanese.jpg",
             "rating":3.5,
             "cooking_method":"In a small saucepan, heat the chicken or vegetable broth over low heat until hot but not boiling.In a separate large pot, melt 2 tablespoons of butter over medium heat...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["Arborio rice", "Saffron threads", "Onion", "Butter", "Grated Parmesan cheese"]
+
           }
         ]
       },
@@ -90,7 +92,8 @@
             "image": "https://cdn1.jernejkitchen.com/sites/default/files/tagliatellepastawithblacktrufflesauce-1-jernejkitchen.jpg",
             "rating":4.6,
             "cooking_method":"In a small saucepan, heat the chicken or vegetable broth over low heat until hot but not boiling.In a separate large pot, melt 2 tablespoons... ",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["Fresh tagliatelle pasta", "Fresh black or white truffles", "Butter", "Garlic", "Heavy cream"]
+
           },
           {
             "name": "Saltimbocca alla romana",
@@ -98,7 +101,8 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Saltimbocca_alla_romana_%287123618999%29.jpg",
             "rating":5,
             "cooking_method":"Season the pounded veal cutlets with salt and freshly ground black pepper.Place a slice of prosciutto and 2 fresh sage leaves on each veal cutlet, and secure with a toothpick...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["Veal cutlets", "Prosciutto slices", "Fresh sage leaves", "All-purpose flour", "Butter"]
+
           },
           {
             "name": "Torta della nonna",
@@ -106,7 +110,8 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LVvJzNmL68WL2vBZm9kI53IkTWiIaJ7Hhw&usqp=CAU",
             "rating":5,
             "cooking_method":"Preheat the oven to 350°F (175°C).In a large mixing bowl, combine the all-purpose flour and granulated sugar for the pastry crust...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":["All-purpose flour", "Unsalted butter", "Granulated sugar", "Eggs", "Milk"]
+
           }
         ]
       },
@@ -125,7 +130,14 @@
             "image": "https://media.istockphoto.com/id/1280329631/photo/italian-pizza-margherita-with-tomatoes-and-mozzarella-cheese-on-wooden-cutting-board-close-up.jpg?b=1&s=170667a&w=0&k=20&c=_t83ocY59IayPnspluN99xOM_RQ5ytAMTfXQperbL_I=",
             "rating":4.5,
             "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Pizza dough",
+              "San Marzano tomatoes",
+              "Fresh mozzarella cheese",
+              "Fresh basil leaves",
+              "Extra-virgin olive oil"
+
+            ]
           },
           {
             "name": "Polpette al sugo",
@@ -133,7 +145,13 @@
             "image": "https://cdn.shopify.com/s/files/1/0569/4661/articles/Polpette_Blog_Image_1200x.jpg?v=1615285744",
             "rating":4.5,
             "cooking_method":"Preheat the oven to 450°F (230°C). If you have a pizza stone, place it in the oven to preheat as well Stretch the pizza dough out to a round shape...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Ground beef",
+              "Breadcrumbs",
+              "Parmesan cheese",
+              "Egg",
+              "Milk"
+            ]
           },
           {
             "name": "Gelato",
@@ -141,7 +159,13 @@
             "image": "https://media.istockphoto.com/id/1151706409/photo/italian-gelato-of-various-flavors-in-ice-cream-parlor.jpg?s=612x612&w=0&k=20&c=pqCa34BGcpM34NDkhOcFGLud3_CmPxNrOyT4ylanp0I=",
             "rating":4.6,
             "cooking_method":"In a medium saucepan, combine the whole milk, heavy cream, and 1/2 cup of the granulated sugar. Cook over medium heat, stirring occasionally, until the mixture reaches a simmer...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients": [
+              "Milk",
+              "Heavy cream",
+              "Sugar",
+              "Egg yolks",
+              "Vanilla extract"
+            ]
           }
         ]
       },
@@ -160,7 +184,13 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxW-FA-Xj0nQSXXaA4VV9R_qimAEQJgQ1WfYnzZq8vEqEHecb-I1bOotVsAXaAEMURJ0&usqp=CAU",
             "rating":4.6,
             "cooking_method":"In a food processor or blender, combine the fresh basil leaves, pine nuts, grated Parmesan cheese, and garlic cloves. Pulse until the mixture is coarsely chopped...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Fresh basil leaves",
+              "Garlic",
+              "Pine nuts",
+              "Parmesan cheese",
+              "Extra-virgin olive oil"
+            ]
           },
           {
             "name": "Risotto alla Milanese",
@@ -168,7 +198,13 @@
             "image": "https://media.istockphoto.com/id/1057429672/photo/vegetarian-italian-food-risotto-with-saffron-and-mint-closeup-horizontal.jpg?s=612x612&w=0&k=20&c=5SWaNPPUorwHvsz3lFxwg06UtLbk8Bn02jKNmErNIqw=",
             "rating":5,
             "cooking_method":"In a medium saucepan, heat the chicken broth over medium heat until it reaches a simmerIn a large, heavy-bottomed saucepan or Dutch oven, melt the unsalted... ",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Arborio rice",
+              "Saffron threads",
+              "Onion",
+              "Butter",
+              "Parmesan cheese"
+            ]
           },
           {
             "name": "Tiramisu",
@@ -176,7 +212,13 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTiJZ1Oni2F3c0nWuQ92FC8IUmtNMYUN4ww&usqp=CAU",
             "rating":5,
             "cooking_method":"In a medium mixing bowl, whisk together the egg yolks and granulated sugar until the mixture is light and creamy. In a medium saucepan, heat the whole milk over medium heat until it...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Ladyfingers",
+              "Mascarpone cheese",
+              "Eggs",
+              "Sugar",
+              "Espresso coffee"
+            ]
           }
         ]
       },
@@ -195,7 +237,13 @@
             "image": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/08/one_pot_wonders_6_153_img_s900x0_c1960x1144_l0x825.jpg",
             "rating":4.6,
             "cooking_method":"Cook the spaghetti in a large pot of boiling salted water until al denteWhile the spaghetti is cooking, heat the extra-virgin olive oil in a large skillet over medium heat... ",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Spaghetti",
+              "Clams",
+              "Garlic",
+              "Extra-virgin olive oil",
+              "White wine"
+            ]
           },
           {
             "name": "Pollo alla cacciatora",
@@ -203,7 +251,13 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49Hyi5XFDeMptYRXzaG2mg-K-MyVXJMO35g&usqp=CAU",
             "rating":5,
             "cooking_method":"Preheat the oven to 350°FSeason the chicken pieces with salt and freshly ground black pepper, then dredge them in the flour, shaking off any excess...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients":[
+              "Chicken",
+              "Tomatoes",
+              "Onion",
+              "Garlic",
+              "Red wine"
+            ]
           },
           {
             "name": "Panna cotta",
@@ -211,7 +265,13 @@
             "image": "https://media.istockphoto.com/id/1255776846/photo/raspberry-panna-cotta-with-raspberry-jelly-italian-dessert-homemade-cuisine-copy-space.jpg?s=612x612&w=0&k=20&c=TU-mPAtTafCrWcxHrtAO-HjxMkcGgOoG5E6W5l9tJkg=",
             "rating":3.5,
             "cooking_method":"In a medium saucepan, heat the heavy cream and granulated sugar over medium heat until the sugar has dissolved, stirring occasionally. Do not boil. Stir in the vanilla extract and remove the saucepan from the heat...",
-            "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+            "ingredients": [
+              "Heavy cream",
+              "Milk",
+              "Sugar",
+              "Gelatin",
+              "Vanilla extract"
+            ]
           }
         ]
       }
