@@ -6,12 +6,13 @@
         "experience_years": 15,
         "num_recipes": 87,
         "likes": 1245,
-        "description": "Giovanni Rossi is a renowned Italian chef with over 15 years of experience in the culinary world. He is known for his unique take on traditional Italian dishes, using fresh and locally sourced ingredients to create flavorful and healthy meals. With 87 recipes under his belt, Giovanni's dishes are a perfect mix of tradition and innovation.",
+        "description": "Giovanni Rossi is a renowned Italian chef with over 15 years of experience in the culinary world. He is known for his unique take on traditional Italian dishes, using fresh and locally sourced ingredients to create flavorful...",
         "recipes": [
           {
             "name": "Pesto pasta with cherry tomatoes",
             "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
             "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+            "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
             "rating":4.6,
 
             "ingredients": ["Pasta",
@@ -25,6 +26,7 @@
             "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
             "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
             "rating":4.9,
+            "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
 
           },
@@ -33,6 +35,7 @@
             "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
             "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
             "rating":4.2,
+            "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
@@ -51,6 +54,7 @@
             "description": "Alessandro's take on this classic Roman dish features al dente spaghetti coated in a creamy sauce made with eggs, Parmesan cheese, and crispy pancetta.",
             "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg",
             "rating":4,
+            "cooking_method":"Cook spaghetti in salted boiling water according to package instructions until al dente.In a large skillet, cook pancetta or bacon over medium heat until crispy. Remove from pan...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -58,6 +62,7 @@
             "description": "This fresh and simple salad is Alessandro's tribute to the flavors of the Italian summer. Made with ripe tomatoes, creamy mozzarella cheese, and fresh basil leaves, it's a perfect appetizer or side dish.",
             "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2003/9/22/0/tm1a35_caprese_salad.jpg",
             "rating":5,
+            "cooking_method":"Cook spaghetti in a large pot of salted boiling water according to package instructions until al dente.In a large skillet, cook diced pancetta or bacon over medium heat...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -65,6 +70,7 @@
             "description": "Alessandro's creamy and comforting risotto features saffron, which gives it its characteristic yellow color and unique flavor. It's a classic Italian dish that's perfect for a cozy night in.",
             "image": "https://storage.googleapis.com/smstl/201845/1941/risotto-milanese.jpg",
             "rating":3.5,
+            "cooking_method":"In a small saucepan, heat the chicken or vegetable broth over low heat until hot but not boiling.In a separate large pot, melt 2 tablespoons of butter over medium heat...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
@@ -83,6 +89,7 @@
             "description": "Antonio's luxurious pasta dish features fresh egg tagliatelle coated in a rich and creamy truffle sauce, topped with grated Parmigiano-Reggiano cheese.",
             "image": "https://cdn1.jernejkitchen.com/sites/default/files/tagliatellepastawithblacktrufflesauce-1-jernejkitchen.jpg",
             "rating":4.6,
+            "cooking_method":"In a small saucepan, heat the chicken or vegetable broth over low heat until hot but not boiling.In a separate large pot, melt 2 tablespoons... ",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -90,6 +97,7 @@
             "description": "Antonio's classic Roman dish features thin slices of veal wrapped in prosciutto and sage leaves, pan-fried until golden brown and served with a rich and flavorful white wine sauce.",
             "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Saltimbocca_alla_romana_%287123618999%29.jpg",
             "rating":5,
+            "cooking_method":"Season the pounded veal cutlets with salt and freshly ground black pepper.Place a slice of prosciutto and 2 fresh sage leaves on each veal cutlet, and secure with a toothpick...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -97,6 +105,7 @@
             "description": "This classic Italian dessert is Antonio's grandmother's recipe, featuring a buttery shortcrust pastry filled with creamy vanilla custard and topped with pine nuts and powdered sugar.",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LVvJzNmL68WL2vBZm9kI53IkTWiIaJ7Hhw&usqp=CAU",
             "rating":5,
+            "cooking_method":"Preheat the oven to 350°F (175°C).In a large mixing bowl, combine the all-purpose flour and granulated sugar for the pastry crust...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
@@ -115,6 +124,7 @@
             "description": "Lorenzo's classic pizza features a thin and crispy crust, topped with tangy tomato sauce, fresh mozzarella cheese, and fragrant basil leaves.",
             "image": "https://media.istockphoto.com/id/1280329631/photo/italian-pizza-margherita-with-tomatoes-and-mozzarella-cheese-on-wooden-cutting-board-close-up.jpg?b=1&s=170667a&w=0&k=20&c=_t83ocY59IayPnspluN99xOM_RQ5ytAMTfXQperbL_I=",
             "rating":4.5,
+            "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -122,6 +132,7 @@
             "description": "These classic Italian meatballs are made with a mix of ground beef and pork, seasoned with garlic, parsley, and grated Parmesan cheese, and served in a rich tomato sauce.",
             "image": "https://cdn.shopify.com/s/files/1/0569/4661/articles/Polpette_Blog_Image_1200x.jpg?v=1615285744",
             "rating":4.5,
+            "cooking_method":"Preheat the oven to 450°F (230°C). If you have a pizza stone, place it in the oven to preheat as well Stretch the pizza dough out to a round shape...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -129,6 +140,7 @@
             "description": "Lorenzo's creamy and refreshing gelato comes in a variety of flavors, from classic vanilla and chocolate to more adventurous combinations like pistachio and raspberry.",
             "image": "https://media.istockphoto.com/id/1151706409/photo/italian-gelato-of-various-flavors-in-ice-cream-parlor.jpg?s=612x612&w=0&k=20&c=pqCa34BGcpM34NDkhOcFGLud3_CmPxNrOyT4ylanp0I=",
             "rating":4.6,
+            "cooking_method":"In a medium saucepan, combine the whole milk, heavy cream, and 1/2 cup of the granulated sugar. Cook over medium heat, stirring occasionally, until the mixture reaches a simmer...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
@@ -147,6 +159,7 @@
             "description": "Giuseppe's classic pesto features fragrant basil leaves, pine nuts, garlic, and grated Parmigiano-Reggiano cheese, blended together with extra-virgin olive oil until smooth and creamy.",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxW-FA-Xj0nQSXXaA4VV9R_qimAEQJgQ1WfYnzZq8vEqEHecb-I1bOotVsAXaAEMURJ0&usqp=CAU",
             "rating":4.6,
+            "cooking_method":"In a food processor or blender, combine the fresh basil leaves, pine nuts, grated Parmesan cheese, and garlic cloves. Pulse until the mixture is coarsely chopped...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -154,6 +167,7 @@
             "description": "This classic Milanese dish features creamy risotto cooked with saffron threads, butter, and grated Parmesan cheese, topped with a sprinkle of chopped parsley.",
             "image": "https://media.istockphoto.com/id/1057429672/photo/vegetarian-italian-food-risotto-with-saffron-and-mint-closeup-horizontal.jpg?s=612x612&w=0&k=20&c=5SWaNPPUorwHvsz3lFxwg06UtLbk8Bn02jKNmErNIqw=",
             "rating":5,
+            "cooking_method":"In a medium saucepan, heat the chicken broth over medium heat until it reaches a simmerIn a large, heavy-bottomed saucepan or Dutch oven, melt the unsalted... ",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -161,6 +175,7 @@
             "description": "Giuseppe's classic Italian dessert features layers of ladyfingers soaked in espresso and brandy, topped with a creamy mixture of mascarpone cheese, whipped cream, and cocoa powder.",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTiJZ1Oni2F3c0nWuQ92FC8IUmtNMYUN4ww&usqp=CAU",
             "rating":5,
+            "cooking_method":"In a medium mixing bowl, whisk together the egg yolks and granulated sugar until the mixture is light and creamy. In a medium saucepan, heat the whole milk over medium heat until it...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
@@ -179,6 +194,7 @@
             "description": "Francesca's classic pasta dish features al dente spaghetti cooked with fresh clams, garlic, white wine, and red pepper flakes, finished with a drizzle of extra-virgin olive oil and a sprinkle of chopped parsley.",
             "image": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/08/one_pot_wonders_6_153_img_s900x0_c1960x1144_l0x825.jpg",
             "rating":4.6,
+            "cooking_method":"Cook the spaghetti in a large pot of boiling salted water until al denteWhile the spaghetti is cooking, heat the extra-virgin olive oil in a large skillet over medium heat... ",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -186,6 +202,7 @@
             "description": "This classic Tuscan dish features tender chicken cooked in a savory tomato sauce with onions, garlic, olives, and capers, served with crusty bread to soak up the delicious sauce.",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49Hyi5XFDeMptYRXzaG2mg-K-MyVXJMO35g&usqp=CAU",
             "rating":5,
+            "cooking_method":"Preheat the oven to 350°FSeason the chicken pieces with salt and freshly ground black pepper, then dredge them in the flour, shaking off any excess...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           },
           {
@@ -193,6 +210,7 @@
             "description": "Francesca's silky-smooth dessert features sweetened cream flavored with vanilla or other spices, set with gelatin and served chilled with a drizzle of fruit sauce or caramel.",
             "image": "https://media.istockphoto.com/id/1255776846/photo/raspberry-panna-cotta-with-raspberry-jelly-italian-dessert-homemade-cuisine-copy-space.jpg?s=612x612&w=0&k=20&c=TU-mPAtTafCrWcxHrtAO-HjxMkcGgOoG5E6W5l9tJkg=",
             "rating":3.5,
+            "cooking_method":"In a medium saucepan, heat the heavy cream and granulated sugar over medium heat until the sugar has dissolved, stirring occasionally. Do not boil. Stir in the vanilla extract and remove the saucepan from the heat...",
             "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
           }
         ]
